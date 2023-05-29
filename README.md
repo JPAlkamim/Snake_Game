@@ -1,6 +1,6 @@
 # Snake Game using PYGAME.
 
-> Snake Game usando a biblioteca Pygame.
+> Snake Game usando a biblioteca Pygame na linguagem Python 3.X.
 
 ## Requisitos
 
